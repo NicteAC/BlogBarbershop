@@ -1,0 +1,34 @@
+.contacto {
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+    .container {
+    .contacto__img {
+        border-radius: 50%;
+    }
+}
+
+&__name {
+    font-family: $playfair;
+    font-style: italic;
+    font-weight: $sbold;
+    color: $eerie-black;
+    font-size: $x-large;
+    padding-top: 4rem;
+}
+
+&__redes {
+    color: $spanish-pink;
+    font-family: $roboto;
+    
+}
+
+&__text {
+    color: $nickel;
+    font-family: $roboto;
+    font-weight: $light-fw;
+    line-height: 3rem;
+    padding-top: 4rem;
+}   
+
+}
+

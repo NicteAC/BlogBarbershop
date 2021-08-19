@@ -1,0 +1,17 @@
+.hero__section {
+    height: 100vh;
+    background-image: url("../../assets/img/post.jpg");
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    .hero__title {
+        color: $white;
+        text-align: center;
+        padding-top: 20%;
+        font-family: $playfair;
+        font-weight: $sbold;
+        font-size: 70px;
+        font-style: italic;
+    }
+}

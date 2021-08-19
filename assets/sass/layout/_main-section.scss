@@ -1,0 +1,13 @@
+.main__section{
+padding: 1rem;
+    .main__text{
+        line-height: 45px;
+        font-family: $roboto;
+        font-weight: $light-fw;
+    }
+    .main__text--title {
+        font-family: $roboto;
+        font-size: $large;
+        color: $nickel;
+    }
+}
